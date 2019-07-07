@@ -1,0 +1,14 @@
+Jenelle - Group Profile
+Jaryd - Industry Data
+Kyle - Group Profile website (use info from Group Assessment file on GitHub) and Collation of info for Project Idea
+Jack - Cyber Security and Cryptocurrency
+Bruce - Chatbots and Autonomous Vehicles
+
+We will be using Jenelle's idea for the Project Idea section
+
+Individual tasks:
+
+Upload comments (in txt or docx file) on the Project idea to Git for Kyle to collate.
+
+Write response to "Having looked at the Burning Glass data, has your opinion of your ideal job changed?
+Why or why not?" to add to the Industry Data section. Upload to Github.
