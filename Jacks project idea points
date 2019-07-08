@@ -1,0 +1,32 @@
+Jacks Project Idea Points
+
+1. Utilising a Raspberry Pi with a 3g/4g sim card to record data and upload to a cloud based server, that is also accessible through an application.
+2. Device would have a scannable QR code that can be scanned to access data stored on the server.
+3. Possible data collection can include:
+                                          - Barking logs
+                                          - GPS info
+                                          - Registration details including owners details
+                                          - Activity details (period of time moving/stationary)
+4. Issues:
+          - Power supply.
+            two options, first being an easily replaceable commercial off the shelf (COTs) Product such as a 9v battery
+            second option would be an rechargeable battery pack installed along the collar that is charged through a micro
+            usb connection.
+            Either of these options could also allow the raspberry pi to track battery voltage and send an alert to the
+            server when it requires charging.
+          - Durability
+            Considerate testing would be required to ensure the hardware is stored with a rugged housing that can not be
+            damaged from the everyday wearing of a dog. including the water proofing of the case for wet weather situations.
+            Along with this the housing must still be slim enough that it does not provide a hazard/annoyance when wearing.
+          - Radiation hazard
+            Sufficient testing will be required to ensure no negative long term effects of 3g/4g antennas radiating in close proximity
+            of the dogs head. the information from this will need to be available in order to provide peace of mind for the customer.
+          - Price
+            Obviously this could become a very expensive collar so keeping it affordable will be a major focus on creation. another
+            factor that must be accounted for is the ongoing running costs of the server (do you charge a subscription fee, or a large
+            initial fee to cover the long term costs?)
+          - Security
+            this may have the potential that if the dog is stolen the criminal could access data via the QR code. while you could look
+            at requiring two factor authentication to access the data (Vet and local councils would have there own codes for access)
+            the easiest solution would be to only have the address and contact number of the owner and no other personal information
+            stored within the server.
